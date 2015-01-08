@@ -2,7 +2,7 @@ Analysis of Human Activity Recoginition Data
 ============================================
 
 
-  This is a guide describing the **run_Analysis.R** script and the variables used. This script works on the Human Activity Recogniition data collected from the accelerometers from the Samsung Galaxy S smartphone whcih can be downloaded from [here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+  This is a guide describing the **run_Analysis.R** script and the variables used. This script works on the Human Activity Recogniition data collected from the accelerometers from the Samsung Galaxy S smartphone which can be downloaded from [here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
   
 ### Breakdown of the run_Analysis script:
   1. The run_Analysis.R script should be copied to the working directory containing the unzipped raw data.
